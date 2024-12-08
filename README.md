@@ -1,17 +1,18 @@
 **Name:** SOHAM MHATRE 
 **Company:** CODTECH IT SOLUTIONS 
-**ID:**CT08DS10244 
-**Domain:**Power BI 
+**ID:** CT08DS10244 
+**Domain:** Power BI 
 **Duration:** NOV to Dec 2024 
 **Mentor:** NEELA SANTOSH KUMAR
 
-**Over View of Project**
+**Over View of Project** 
 
 **Project:** CUSTOMER DEMOGRAPHICS ANALYSIS
 
-**Object:**Develop a report to analyze customer demographics, includingage, gender, location, and purchasing behavior. Import customer data from a database or CSV file. Create visuals to represent demographic data (e.g., age distribution, gender breakdown)
-![image](https://github.com/user-attachments/assets/aa7d8a0e-cebe-4675-99a4-f401833ca7b9)
+**Object:** Develop a report to analyze customer demographics, includingage, gender, location, and purchasing behavior. Import customer data from a database or CSV file. Create visuals to represent demographic data (e.g., age distribution, gender breakdown)
 
+
+![image](https://github.com/user-attachments/assets/aa7d8a0e-cebe-4675-99a4-f401833ca7b9)
 
 
 
